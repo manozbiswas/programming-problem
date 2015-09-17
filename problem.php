@@ -13,7 +13,6 @@ function isPangram($strings)
                 unset($haystack[$key]);
             }
         }
-       // var_dump($haystack);
         if(count($haystack)==0){
             echo 1;
         }

@@ -28,3 +28,5 @@ $tests = array(
 );
 
  isPangram($tests);
+ 
+ Output: 1011;
